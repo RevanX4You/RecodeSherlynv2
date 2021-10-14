@@ -489,7 +489,7 @@ https://nhentai.net/g/209026/ Cocologic
 https://nhentai.net/g/207432/ Watashi no Onii-chan 4,5
 https://nhentai.net/g/247574/ Watashi no Onii-chan Extra
 
-「 TOBAT WOE 」
+「 ASTAGHFIRULLAH GUA BILANGIN MAK LU YA!」
 `.trim(), m)
 }
 handler.help = ['kodenuklir']
