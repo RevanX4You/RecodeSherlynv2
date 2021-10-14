@@ -1,21 +1,21 @@
 let handler = async m => m.reply(`
 *「 LIST HARGA SEWA BOT 」*
 
-❒ Sewa = _5k/grup (1 minggu)_
-❒ Sewa = _10k/grup (2 minggu)_
-❒ Sewa = _15k/grup (1 bulan)_
+❒ Sewa = _2k/grup (1 minggu)_
+❒ Sewa = _5k/grup (2 minggu)_
+❒ Sewa = _10k/grup (Permanen)_
 ❒ Free = _30 menit Bot Masuk Ke Group Kalian Setelah Itu Bot Akan Keluar_
 
 ◪ *PEMBAYARAN BISA MELALUI*
 
 ❒ _PULSA_
 ❒ _GOPAY_
-❒ _OVO_
-❒ _DANA_
+❒ KOSONG
+❒ KOSONG
 
 ◪ 𝙆𝙀𝙐𝙉𝙏𝙐𝙉𝙂𝘼𝙉 𝙎𝙀𝙒𝘼 𝘽𝙊𝙏
 
-❒ *Fitur Premium Terbuka*
+❒ *BISA LIAT B0K3P*
 ❒ *Limit UNLIMITED*
 ❒ *Bisa Menyuruh Bot Buka/Tutup Group*
 ❒ *Kick Orang*
@@ -26,7 +26,7 @@ let handler = async m => m.reply(`
 
 ◪ *Jika Minat Hubungi owner kami*
 ◪ *Atau Masuk Group Official Bot*
-https://chat.whatsapp.com/FBy8oRq3umC7SbjIFdeMgu
+https://chat.whatsapp.com/HElCJddnzFuJH8uCHkhJuH
 
 Ingin Jadi Bot Seperti ini?
 ketik #jadibot
