@@ -120,10 +120,10 @@ global.reloadHandler = function () {
     conn.off('group-participants-update', conn.onParticipantsUpdate)
     conn.off('CB:action,,call', conn.onCall)
   }
-  conn.welcome = 'Selamat Datang @user 👋🏻\nDi Group @subject \n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\nSilahkan isi Data Di Bawah ini untuk memperkenalkan diri🌻\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n📌Nama :\n📌Umur :\n📌Kelas :\n📌Gender :\n📌Askot :\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\nSelamat Bergabung Semoga Betah😊\nJangan Lupa Patuhi Peraturan Di Group\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰'
-  conn.bye = 'Bye Bye Beban Group @user!'
-  conn.spromote = '*「 PROMOTE DETECTOR 」*\n @user sekarang admin!'
-  conn.sdemote = '*「 DEMOTE DETECTOR 」*\n @user sekarang bukan admin!'
+  conn.welcome = 'Welcome Jan lupa baca desk Brother  @user 👋🏻\nDi Group @subject \n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\nSilahkan isi Data Di Bawah ini untuk memperkenalkan diri🌻\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n📌Nama :\n📌Umur :\n📌Kelas :\n📌Gender :\n📌Askot :\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\nSelamat Bergabung Semoga Betah😊\nJangan Lupa Patuhi Peraturan Di Group\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰'
+  conn.bye = 'Bye Beban GC Balik Beli Toko Surya @user!'
+  conn.spromote = '*「 PROMOTE DETECTOR 」*\n @user Mampus Bukan Admin lagi!'
+  conn.sdemote = '*「 DEMOTE DETECTOR 」*\n @user Selamat Tod Lu Dah jadi admin !'
   conn.handler = handler.handler
   conn.onDelete = handler.delete
   conn.onParticipantsUpdate = handler.participantsUpdate
