@@ -18,7 +18,7 @@ let handler = async function (m, { text, usedPrefix }) {
   user.registered = true
   let sn = createHash('md5').update(m.sender).digest('hex')
   let caption = `
-*PENDAFTARAN BERHASIL*
+*NAH GITU DONG DAFTAR!*
 
 *Dengan SN* _${sn}_
 
